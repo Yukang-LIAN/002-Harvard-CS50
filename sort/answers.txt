@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: it takes a longer time than merge sort
+
+sort2 uses: merge sort
+
+How do you know?: fastest on reversed dataset
+
+sort3 uses: selection sort
+
+How do you know?: it takes half time of bubble sort
